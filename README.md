@@ -2,6 +2,11 @@
 
 **Multi-Timeframe Trend Oscillator** is an MQL4 custom indicator developed by [Seif Rached](https://github.com/seifrached/). Designed for MetaTrader 4, this indicator provides a comprehensive view of market trend conditions by analyzing and comparing trends across five different timeframes: H4, H1, M30, M15, and M5. It does so by calculating and comparing three EMAs (Fast EMA, Slow EMA, and Very Slow EMA) and then classifying the trend conditions into four distinct states for each timeframe.
 
+### Pictures
+
+![Image](https://github.com/user-attachments/assets/54246561-fb5d-445a-8ead-91b358168e82)
+![Image](https://github.com/user-attachments/assets/79a39b7e-7bc9-4b08-b027-7687efaad466)
+
 ## Key Features
 
 - **Multi-Timeframe Analysis:**  
