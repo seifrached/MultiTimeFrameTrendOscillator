@@ -1,3 +1,22 @@
+# 🚨 Trading Alert: Avoid CFDs 🚨
+
+**_Warning_:**  
+Trading Contracts for Difference (CFDs) can be extremely risky. Due to high leverage and volatility, CFDs can expose you to losses that exceed your initial investment—**potentially resulting in the loss of all your money**. 
+
+**🔔 _Recommendation_:**  
+For a safer trading environment, consider trading on **SPOT markets** (such as crypto spot or forex spot) where you are dealing with actual assets. SPOT trading generally involves lower leverage, which may reduce the risk of significant losses.  
+
+**💡 _Reminder_:**  
+- Always use proper risk management techniques.  
+- Only trade with capital you can afford to lose.  
+- Make sure to do thorough research or consult with a qualified financial advisor before making any trading decisions.
+
+**_Disclaimer_:**  
+This alert is provided for informational purposes only and does **not** constitute financial advice.
+
+
+
+
 # Multi-Timeframe Trend Oscillator
 
 **Multi-Timeframe Trend Oscillator** is an MQL4 custom indicator developed by [Seif Rached](https://github.com/seifrached/). Designed for MetaTrader 4, this indicator provides a comprehensive view of market trend conditions by analyzing and comparing trends across five different timeframes: H4, H1, M30, M15, and M5. It does so by calculating and comparing three EMAs (Fast EMA, Slow EMA, and Very Slow EMA) and then classifying the trend conditions into four distinct states for each timeframe.
